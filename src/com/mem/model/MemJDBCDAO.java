@@ -43,9 +43,9 @@ public class MemJDBCDAO implements I_MemDAO {
 			pstmt.setString(4, memVO.getTel());
 			pstmt.setString(5, memVO.getMob());
 			pstmt.setString(6, memVO.getEmail());
-			pstmt.setString(7, memVO.getShop_name());
-			pstmt.setString(8, memVO.getCredit_card());
-			pstmt.setString(9, memVO.getEmail());
+			pstmt.setString(7, memVO.getEmail());
+			pstmt.setString(8, memVO.getShop_name());
+			pstmt.setString(9, memVO.getCredit_card());
 			pstmt.setDate(10, memVO.getCredit_card_expires());
 			pstmt.setInt(11, memVO.getCredit_card_cvc());
 			pstmt.setString(12, memVO.getBank_account());
