@@ -263,6 +263,7 @@ header .user-acc .dropdown-menu {
 }
 
 header .user-msg .dropdown-menu > li.active > a,
+header .user-msg .dropdown-menu > li > a,
 header .user-msg .dropdown-menu > li > a:hover,
 header .user-acc .dropdown-menu > li.active > a,
 header .user-acc .dropdown-menu > li > a:hover {

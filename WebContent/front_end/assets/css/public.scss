@@ -255,6 +255,9 @@ header {
       overflow-y: scroll;
     }
   }
+  .user-msg .dropdown-menu > li > a {
+  	background: $headerBlackFontColor !important;
+  }
   .user-msg,
   .user-acc {
     .dropdown-menu {

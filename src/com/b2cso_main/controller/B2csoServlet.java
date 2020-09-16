@@ -282,7 +282,7 @@ public class B2csoServlet extends HttpServlet {
 				if(req.getParameter("recipient") == null || req.getParameter("recipient").trim().length() == 0) {
 					reportMsgs.add("收貨人姓名不能為空");
 				} else {
-					recipient = req.getParameter("status");
+					recipient = req.getParameter("recipient");
 				}
 				String del_address = null;
 				if(req.getParameter("del_address") == null || req.getParameter("del_address").trim().length() == 0) {
@@ -310,7 +310,7 @@ public class B2csoServlet extends HttpServlet {
 				
 				// 修改訂單狀態
 				bsoVO.setStatus(status);
-				bSvc.update(status, bsoVO.getAmount(), del_address, pay_via, so_id);
+				bSvc.update(status, bsoVO.getAmount(), del_address, pay_via, recipient, so_id);
 				
 				JSONObject jsonObject = new JSONObject();
 				reportMsgs.add("訂單修改成功");
@@ -365,7 +365,7 @@ public class B2csoServlet extends HttpServlet {
 				
 				// 修改訂單狀態
 				bsoVO.setStatus(status);
-				bSvc.update(bsoVO.getStatus(), bsoVO.getAmount(), bsoVO.getDel_address(), bsoVO.getPay_via(), bsoVO.getSo_id());
+				bSvc.update(bsoVO.getStatus(), bsoVO.getAmount(), bsoVO.getDel_address(), bsoVO.getPay_via(), bsoVO.getRecipient(), bsoVO.getSo_id());
 				
 				JSONObject jsonObject = new JSONObject();
 				jsonObject.put("data", deptList);

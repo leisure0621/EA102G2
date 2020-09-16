@@ -25,7 +25,7 @@ public class B2cso_mainJDBCDAO implements I_B2cso_mainDAO{
 	private static final String GET_ONE_STMT = 
 		"SELECT SO_ID, TYPE, BUYER_ID, STATUS, DELIVERY, EST_TIME, AMOUNT, DEL_ADDRESS, RECIPIENT, PAY_VIA FROM B2CSO_MAIN WHERE SO_ID = ?";
 	private static final String UPDATE =
-		"UPDATE B2CSO_MAIN SET STATUS = ?, AMOUNT = ?, DEL_ADDRESS = ?, PAY_VIA = ? WHERE SO_ID = ?";
+		"UPDATE B2CSO_MAIN SET STATUS = ?, AMOUNT = ?, DEL_ADDRESS = ?, PAY_VIA = ?, RECIPIENT = ? WHERE SO_ID = ?";
 	private static final String GET_LASTEST_STMT = 
 		"SELECT SO_ID FROM (SELECT SO_ID FROM B2CSO_MAIN ORDER BY B2CSO_MAIN.SO_ID DESC) WHERE ROWNUM <= 1";
 	
@@ -94,7 +94,8 @@ public class B2cso_mainJDBCDAO implements I_B2cso_mainDAO{
 			pstmt.setInt(2,b2cso_mainVO.getAmount());
 			pstmt.setString(3,b2cso_mainVO.getDel_address());
 			pstmt.setInt(4,b2cso_mainVO.getPay_via());
-			pstmt.setString(5,b2cso_mainVO.getSo_id());
+			pstmt.setString(5,b2cso_mainVO.getRecipient());
+			pstmt.setString(6,b2cso_mainVO.getSo_id());
 			
 			pstmt.executeUpdate();
 

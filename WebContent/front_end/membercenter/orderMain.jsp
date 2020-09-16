@@ -353,6 +353,7 @@
         data = {};
         data.so_id = order.so_id;
         data.recipient = $('.recipient').val();
+        console.log(data.recipient)
         if(!data.recipient) {
         	alert('請輸入收貨人姓名');
         	return;

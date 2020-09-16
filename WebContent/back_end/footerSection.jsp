@@ -49,11 +49,21 @@
 	      // 指定員工
 	      if (resObj.emp_id == '${empVO.emp_id}') {
 	    	  let style = 
-	    		  'background: rgba(255 ,0 ,0 ,0.85);'+
-				  'color: white;'+
-				  'display: block;'+
-				  'padding: 22px 70px;';
-	    	  toolTip(resObj.msg, style);
+	    		  'position: fixed;'+
+	    	      'width: 50%;'+
+	    	      'left: 30%;'+
+	    	      'margin-top: 2%;'+
+	    	      'background: rgba(255 ,0 ,0 ,0.85);'+
+	    	      'border-radius: 5px;'+
+	    	      'padding: 220px 200px;'+
+	    	      'font-size: 60px;'+
+	    	      'text-align: center;'+
+	    	      'line-height: 50px;'+
+	    	      'animation-name: shake;'+
+			      'animation-duration: 100ms;'+
+			      'animation-timing-function: ease-in-out;'+
+			      'animation-iteration-count: infinite;';
+	    	  toolTip(resObj.msg, style, false);
 	    	  // 登出
 	    	  setTimeout(function(){$('.logout').click()}, 2000);
 	      }
@@ -73,13 +83,15 @@
 			});
 
 	// 提示方式2
-	function toolTip(msg, style) {
+	function toolTip(msg, style, ifRemove) {
 		$('.toolTip').append('<div class="tips" style="'+style+'">' + msg + '</div>');
 		$('.toolTip .tips').fadeIn(1000);
-		$('.toolTip').click(function() {
-// 			$(this).fadeOut(1000, function() {
-// 				$('.toolTip .tips').remove();
-// 			});
-		});
+		if(ifRemove) {
+			$('.toolTip').click(function() {
+				$(this).fadeOut(1000, function() {
+					$('.toolTip .tips').remove();
+				});
+			});
+		}
 	}
 </script>

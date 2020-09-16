@@ -219,7 +219,7 @@ ${specMSvc.findByPrimaryKey(specDSvc.findByPrimaryKey(proSpec.specDet_id).spec_i
 			    	pro_name: $(this).data('pro_name'),
 			    	cat_id : $(this).data('cat_id'),
 			    	quality: parseInt($('#quantity').val()),
-			    	price : $(this).data('price') * parseInt($('#quantity').val())
+			    	price : $(this).data('price')
 			};
 			console.log(data);
 			addtoUserBasket([data], backet, imgSrc);

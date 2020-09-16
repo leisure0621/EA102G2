@@ -24,12 +24,13 @@ public class B2cso_mainService {
 	}
 	
 	public void update(String status, Integer amount, String del_address,
-			Integer pay_via, String so_id) {
+			Integer pay_via,String recipient, String so_id) {
 		B2cso_mainVO b2cso_mainVO = new B2cso_mainVO();
 		b2cso_mainVO.setStatus(status);
 		b2cso_mainVO.setAmount(amount);
 		b2cso_mainVO.setDel_address(del_address);
 		b2cso_mainVO.setPay_via(pay_via);
+		b2cso_mainVO.setRecipient(recipient);
 		b2cso_mainVO.setSo_id(so_id);
 		dao.update(b2cso_mainVO);
 	}
