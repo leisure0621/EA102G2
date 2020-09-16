@@ -1,0 +1,69 @@
+﻿核心/記憶體
+
+Boost Clock / Memory Speed
+1755 MHz / 14 Gbps
+11GB GDDR6
+TORX FAN 3.0: 極靜無聲
+
+獨家引流扇葉設計: 特殊弧形造型，加大風流方向的角度，圓型的邊緣降低風的噪音。
+龍鰭扇葉: 減少風阻讓導入的大量氣流往下引導，散熱效率再提升。
+雙滾珠軸承：堅固耐用的核心設計，讓您享受長時間的順暢遊戲體驗。
+Dragon Center
+
+一鍵超頻優化您所需要的流暢遊戲體驗。
+HDMI_VGA 2RTX logodragon center
+
+NVIDIA Turing™ 架構
+此革命性架構結合了全新的 GeForce RTX™ 創新平台，將即時光線追蹤、人工智慧和可編程著色技術融於一身，展現新的遊戲體驗。
+
+nvidia real time
+內建在遊戲中的即時光線追蹤
+光線追蹤技術是逼真的照明、反射和陰影的最終解決方案，遠超乎傳統渲染技術。 NVIDIA Turing™是第一款能夠進行即時光線追蹤的顯示卡。
+
+nvidia performance
+性能
+GeForce RTX™ 遊戲GPU 搭載新一代GDDR6 記憶體，支援 DirectX 12..等功能。
+
+
+ 
+強勢回歸
+MSI GeForce RTX 20 系列中的 GAMING TRIO系列顯示卡三風扇散熱設計，僅架構在最高階的GPU平台。黑色和鐵灰時尚混搭，加上流線造型與髮絲紋金屬背板，更顯優雅大氣。同時顯卡正面和側面都搭載RGB效果，玩家可以利用MSI 獨家Mystic Light 燈光控制軟體， 依照自己喜好自行設定控制，同時也可與其他RGB零組件一起連動控制。
+
+Personalize Your Card
+ 
+BACKPLATE
+
+了解更多關於 GAMING X TRIO
+TRI-FROZR THERMAL 散熱設計
+Tri-Frozr 配置三組知名的TORX 3.0 風扇和雙滾珠軸承，打造空冷的巔峰之作。
+
+TORX FAN 3.0
+ 
+DOUBLE BALL BEARING
+ 
+ZERO FROZR
+ 
+Mastery of Aerodynamics
+ 
+Concentrated Heatpipes
+ 
+Thermal Compound X
+
+了解更多關於 TRI-FROZR THERMAL DESIGN
+ 
+追求卓越
+金屬下面是由印刷電路組成的多層電子高速公路。它們連接所有重要組件並以閃電般的速度進行傳遞。
+
+CLOSE QUARTERS
+ 
+CUSTOM PCB
+
+了解更多關於 OUR CUSTOM CIRCUIT BOARD
+Ultrabook, Celeron, Celeron Inside, Core Inside, Intel, Intel Logo, Intel Atom, Intel Atom Inside, Intel Core, Intel Inside, Intel Inside Logo, Intel vPro, Itanium, Itanium Inside, Pentium, Pentium Inside, vPro Inside, Xeon, Xeon Phi, and Xeon Inside are trademarks of Intel Corporation in the U.S. and/or other countries.
+
+© 2016 NVIDIA Corporation. All rights reserved. NVIDIA, GeForce , and NVIDIA Pascal are registered trademarks of NVIDIA Corporation in the U.S and other countries
+
+Brand and product names mentioned are trademarks of their respective owners.
+
+HDMI
+All images and descriptions are for illustrative purposes only. Visual representation of the products may not be perfectly accurate. Product specification, functions and appearance may vary by models and differ from country to country . All specifications are subject to change without notice. Please consult the product specifications page for full details.Although we endeavor to present the most precise and comprehensive information at the time of publication, a small number of items may contain typography or photography errors. Products may not be available in all markets. We recommend you to check with your local supplier for exact offers.

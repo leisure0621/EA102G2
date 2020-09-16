@@ -1,0 +1,9 @@
+﻿★USB3.0 傳輸快速
+★鋼琴鏡面洘漆
+★格式化exFAT，與Windows和Mac相容
+★相容Apple Time Machine
+★內建WD Backup自動備份軟體
+★內建Acronis 軟體，排程系統備份
+★WD Discovery 雲端儲存檔案匯入
+★密碼保護和硬體加密
+★原廠三年保固

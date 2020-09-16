@@ -1,0 +1,231 @@
+﻿Intel® Core™ i5-9600K 處理器
+9M 快取記憶體，最高 4.60 GHz
+
+
+第 9 代 Intel® Core™ i5 處理器
+
+代號
+產品原名 Coffee Lake
+
+垂直區段
+Desktop
+
+處理器編號
+i5-9600K
+
+狀態
+Launched
+
+推出日期
+Q4'18
+
+光刻
+14 nm
+
+包含的項目
+Please note: The boxed product does not include a fan or heat sink
+
+使用條件
+PC/Client/Tablet
+
+建議客戶價格
+$262.00 - $263.00
+效能規格
+核心數量
+6
+
+執行緒數量
+6
+
+處理器基礎頻率
+3.70 GHz
+
+最大超頻
+4.60 GHz
+
+快取記憶體
+9 MB Intel® Smart Cache
+
+匯流排速度
+8 GT/s
+
+TDP
+95 W
+
+補充資訊
+提供嵌入式選項
+否
+
+描述
+立即檢視
+
+資料表
+立即檢視
+
+記憶體規格
+最大記憶體大小 (取決於記憶體類型)
+128 GB
+
+記憶體類型
+DDR4-2666
+
+最大記憶體通道數量
+2
+
+最大記憶體頻寬
+41.6 GB/s
+
+支援 ECC 記憶體 ‡
+否
+
+處理器顯示晶片
+處理器繪圖 ‡
+Intel® UHD Graphics 630
+
+繪圖基頻
+350 MHz
+
+繪圖最大動態頻率
+1.15 GHz
+
+繪圖視訊最大記憶體
+64 GB
+
+4K 支援
+Yes, at 60Hz
+
+最大解析度 (HDMI 1.4)‡
+4096x2304@24Hz
+
+最大解析度 (DP)‡
+4096x2304@60Hz
+
+最大解析度 (eDP - 整合平板)‡
+4096x2304@60Hz
+
+DirectX* 支援
+12
+
+OpenGL* 支援
+4.5
+
+Intel® 高速影像同步轉檔技術
+是
+
+InTru™ 3D 技術
+是
+
+Intel® 清晰視訊 HD 技術
+是
+
+Intel® 清晰視訊技術
+是
+
+支援的顯示器數量 ‡
+3
+
+裝置識別碼
+0x3E98
+
+擴充選擇
+可延展性
+1S Only
+
+PCI Express 修訂版
+3.0
+
+PCI Express 設定 ‡
+Up to 1x16, 2x8, 1x8+2x4
+
+PCI Express 線道數量上限
+16
+
+封裝規格
+支援的插座
+FCLGA1151
+
+最大 CPU 配置
+1
+
+散熱解決方案規格
+PCG 2015D
+
+TJUNCTION
+100°C
+
+封裝大小
+37.5mm x 37.5mm
+
+進階技術
+可支援 Intel® Optane™ 記憶體 ‡
+是
+
+Intel® 渦輪加速技術 ‡
+2.0
+
+Intel® vPro™ 平台合格性 ‡
+是
+
+Intel® 超執行緒技術 ‡
+否
+
+Intel® 虛擬化技術 (VT-x) ‡
+是
+
+適用於導向式 I/O 的 Intel® 虛擬化技術 (VT-d) ‡
+是
+
+Intel® VT-x with Extended Page Tables (EPT) ‡
+是
+
+Intel® TSX-NI
+是
+
+Intel® 64 ‡
+是
+
+指令集
+64-bit
+
+指令集擴充
+Intel® SSE4.1, Intel® SSE4.2, Intel® AVX2
+
+閒置狀態
+是
+
+進階 Intel SpeedStep® 技術
+是
+
+溫度監測技術
+是
+
+Intel® 身分辨識保護技術 ‡
+是
+
+Intel® 穩定影像作業平台方案
+是
+
+安全性與可靠性
+Intel® AES 新增指令
+是
+
+安全金鑰
+是
+
+Intel® Software Guard Extensions (Intel®SGX)
+Yes with Intel® ME
+
+Intel® 記憶體保護擴充 (Intel® MPX)
+是
+
+Intel® OS Guard
+是
+
+Intel® 受信任的執行技術 ‡
+是
+
+執行禁用位元 ‡
+是
+
+Intel® Boot Guard
+是

@@ -1,0 +1,105 @@
+﻿AMD Ryzen™ 9 3950X
+
+Ryzen 3950x
+為您而生。
+為勝利而設計。
+世界上最強大的 16 核心桌上型電腦處理器1
+概覽
+ 
+規格
+ 
+DRIVERS & SUPPORT
+
+給遊戲玩家、stream 用戶和創作者帶來極致效能
+
+在第三代 AMD Ryzen™ 處理器上引入遊戲緩存
+AMD X570 and B550 wordmarks
+AMD Ryzen™ Ready Socket AM4 平台
+AMD 的主流運算平台，採用 X570 和全新 B550 晶片組進行了更新。
+
+Zen 2 Logo
+7nm「Zen 2」架構
+獲得一台遊戲和創作時更涼爽、更安靜及更快的電腦。
+
+Ryzen 9 and generic water cooler
+為液體散熱而最佳化
+為您的 Ryzen™ 9 3950X 配備一個液體散熱系統，獲得無與倫比的效能。
+
+AMD Ryzen™ 9 3950X
+規格
+CPU 核心數
+16
+執行緒數
+32
+基本時脈
+3.5GHz
+最大超頻時脈 
+最高 4.7GHz
+總計 L1 快取
+1MB
+總計 L2 快取
+8MB
+總計 L3 快取
+64MB
+已解除鎖定 
+是
+CMOS
+TSMC 7nm FinFET
+封裝
+AM4
+PCI Express 版本
+PCIe 4.0 x16
+散熱解決方案 (PIB)
+Cooler Not Included, Liquid Cooling Recommended
+預設 TDP/TDP
+105W
+記憶體
+最大記憶體速度
+3200MHz
+記憶體類型
+DDR4
+記憶體通道
+2
+基礎
+產品系列
+AMD Ryzen™ Processors
+系列產品
+AMD Ryzen™ 9 Desktop Processors
+平台
+Boxed Processor
+OPN 托盤
+100-000000051
+OPN PIB
+100-100000051WOF
+Related Products
+AMD Ryzen™ 9 3900XT 桌上型電腦處理器
+顯示卡型號
+需使用分離式顯示卡
+CPU 核心數
+12
+執行緒數
+24
+最大超頻時脈 
+最高 4.7GHz
+基本時脈
+3.8GHz
+散熱解決方案 (PIB)
+Not included
+預設 TDP/TDP
+105W
+進一步瞭解關於 AMD RYZEN™ 9 3900XT 桌上型電腦處理器
+AMD Ryzen™ 9 3900X
+顯示卡型號
+需使用分離式顯示卡
+CPU 核心數
+12
+執行緒數
+24
+最大超頻時脈 
+最高 4.6GHz
+基本時脈
+3.8GHz
+散熱解決方案 (PIB)
+Wraith Prism with RGB LED
+預設 TDP/TDP
+105W

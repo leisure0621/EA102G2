@@ -1,0 +1,8 @@
+﻿華碩ASUS TUF GeForce® GTX 1650 SUPER™ O4G GAMING 顯示卡
+◆ 顯示晶片 ：NVIDIA GeForce GTX 1650 SUPER
+◆ 記憶體 ：4GB GDDR6
+◆ 核心時脈：Boost : 1770 MHz / OC Mode : 1800 MHz
+◆ CUDA數：1280
+◆ 電源接口：1*6pin
+◆ 輸出端子 ： DP / HDMI / DVI
+◆ 顯卡長度 ：20.6 x 12.4 x 4.6cm

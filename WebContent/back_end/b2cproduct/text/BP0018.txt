@@ -1,0 +1,130 @@
+﻿AMD Ryzen™ 7 3800XT 桌上型電腦處理器
+
+AMD Ryzen 7 3rd gen left facing PIB
+競爭級遊戲與直播
+異常強大的硬體，完美適合高重新整理、高解析度遊戲。
+概覽
+ 
+OFFERS
+ 
+技術
+ 
+規格
+ 
+DRIVERS & SUPPORT
+AMD X570 and B550 wordmarks
+AMD Ryzen™ Ready Socket AM4 平台
+AMD 的主流運算平台，採用 X570 和全新 B550 晶片組進行了更新。
+
+Zen 2 Logo
+7nm「Zen 2」架構
+獲得一台遊戲和創作時更涼爽1、更安靜及更快2的電腦。
+
+Ryzen 7 3rd gen and water cooler
+為電腦迷最佳化
+為您的 Ryzen™ 7 3800XT 配備一個高效能風扇，獲得非凡的效能
+
+Assassin's Creed Valhalla banner with side fade
+裝備以取勝
+當您購買精選 AMD Ryzen™ 處理器時有特別優惠。
+技術
+storemi-ryzen-tech-logo
+AMD StoreMI 技術
+一種可對採用 AMD Ryzen™ 處理器的桌上型電腦的儲存體進行擴充與加速的快捷方法。
+
+進一步瞭解
+AMD Ryzen Master 公用程式
+AMD Ryzen™ Master 公用程式
+適用於 AMD Ryzen™ 處理器的超頻公用程式，使用簡單而且功能強大 §
+
+進一步瞭解
+AMD Ryzen™ 7 3800XT
+規格
+CPU 核心數
+8
+執行緒數
+16
+基本時脈
+3.9GHz
+最大超頻時脈 
+最高 4.7GHz
+總計 L2 快取
+4MB
+總計 L3 快取
+32MB
+已解除鎖定 
+是
+CMOS
+TSMC 7nm FinFET
+封裝
+AM4
+PCI Express 版本
+PCIe 4.0
+預設 TDP/TDP
+105W
+記憶體
+最大記憶體速度
+3200MHz
+記憶體類型
+DDR4
+主要特點
+支援的技術
+AMD StoreMI 技術
+AMD Ryzen™ Master 公用程式
+基礎
+產品系列
+AMD Ryzen™ Processors
+系列產品
+AMD Ryzen™ 7 Desktop Processors
+OPN PIB
+100-100000279WOF
+上市日期
+7/2020
+Related Products
+AMD Ryzen™ 7 3800X
+顯示卡型號
+需使用分離式顯示卡
+CPU 核心數
+8
+執行緒數
+16
+最大超頻時脈 
+最高 4.5GHz
+基本時脈
+3.9GHz
+散熱解決方案 (PIB)
+Wraith Prism with RGB LED
+預設 TDP/TDP
+105W
+進一步瞭解關於 AMD RYZEN™ 7 3800X
+AMD Ryzen™ 7 3700X
+顯示卡型號
+需使用分離式顯示卡
+CPU 核心數
+8
+執行緒數
+16
+最大超頻時脈 
+最高 4.4GHz
+基本時脈
+3.6GHz
+散熱解決方案 (PIB)
+Wraith Prism with RGB LED
+預設 TDP/TDP
+65W
+進一步瞭解關於 AMD RYZEN™ 7 3700X
+AMD Ryzen™ 7 2700X 處理器
+顯示卡型號
+需使用分離式顯示卡
+CPU 核心數
+8
+執行緒數
+16
+最大超頻時脈 
+最高 4.3GHz
+基本時脈
+3.7GHz
+散熱解決方案 (PIB)
+Wraith Prism with RGB LED
+預設 TDP/TDP
+105W

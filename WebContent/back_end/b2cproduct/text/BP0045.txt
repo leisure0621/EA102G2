@@ -1,0 +1,91 @@
+﻿核心/記憶體
+
+Boost Clock / Memory Speed
+1800 MHz / 14 Gbps
+8GB GDDR6
+TORX FAN 3.0: 極靜無聲
+
+獨家引流扇葉: 特殊弧度與扇葉寬幅設計可引入更多的氣流。
+傳統扇葉: 提供穩定的氣流至下方散熱鰭片。
+TRI-FROZR 散熱設計
+
+採用三組TORX 3.0風扇與雙滾珠軸承。
+智能停轉技術: 在低負載情況下停止風扇運轉，保持無噪音的環境。
+RGB Mystic Light
+
+使用MSI獨家軟體，可以客製化控制LED效果，並可以與其他組件進行同步連動設定。
+簡單好用的微星Afterburner超頻軟體
+
+透過Android/iOS 讓你輕鬆無線操控
+掠食者: 即時錄製遊戲精彩畫面
+Kombustor: 支援 DirectX 專業顯卡測試工具
+支援 multi-GPU
+Dragon Center
+
+一鍵超頻優化您所需要的流暢遊戲體驗。
+HDMI_VGA 2RTX logodragon center
+
+NVIDIA Turing™ 架構
+此革命性架構結合了全新的 GeForce RTX™ 創新平臺，將即時光線追蹤、人工智慧和可程式設計著色技術融於一身，展現新的遊戲體驗。
+
+
+獲得超級動力
+新的GeForce RTX SUPER™系列具有更多的內核和更高的頻率，使您的性能比原來的RTX 20系列快25％，比上一代10系列GPU快6倍。該是升級獲得超能力的時候了。
+
+
+GeForce Experience
+可與朋友一起擷取、分享影片與直播。讓您的GeForce驅動程式保持最新狀態，以隨時優化您的遊戲裝備。 GeForce Experience™是GeForce顯卡的必備伴侶。
+
+
+THE RETURN OF THE BEAST
+MSI GeForce RTX 20 系列中的 GAMING TRIO系列顯示卡三風扇散熱設計，僅架構在最高階的GPU平臺。黑色和鐵灰時尚混搭，加上流線造型與髮絲紋金屬背板，更顯優雅大氣。同時顯卡正面和側面都搭載RGB效果，玩家可以利用MSI 獨家Mystic Light 燈光控制軟體， 依照自己喜好自行設定控制，同時也可與其他RGB零元件一起連動控制。
+
+Personalize Your Card
+ 
+BACKPLATE
+
+了解更多關於 GAMING X TRIO
+TRI-FROZR 散熱設計
+Tri-Frozr 配置三組知名的TORX 3.0 風扇和雙滾珠軸承，打造空冷的巔峰之作。
+
+TORX FAN 3.0
+ 
+ZERO FROZR
+ 
+Mastery of Aerodynamics
+ 
+Concentrated Heatpipes
+ 
+Thermal Compound X
+
+了解更多關於 TRI-FROZR THERMAL DESIGN
+追求卓越
+金屬下面是由印刷電路組成的多層電子高速公路。它們連接所有重要組件並以閃電般的速度進行傳遞。
+
+CLOSE QUARTERS
+
+了解更多關於 TRACES OF BRILLIANCE
+無限體驗
+使用MSI內建軟體，可自訂選項控制，讓您的MSI顯卡性能充分發揮。
+
+DRAGON CENTER
+ 
+MYSTIC LIGHT
+ 
+MSI AFTERBURNER
+ 
+ANTI TEARING
+ 
+4K
+ 
+VR READY
+
+了解更多關於 EXPERIENCE
+Ultrabook, Celeron, Celeron Inside, Core Inside, Intel, Intel Logo, Intel Atom, Intel Atom Inside, Intel Core, Intel Inside, Intel Inside Logo, Intel vPro, Itanium, Itanium Inside, Pentium, Pentium Inside, vPro Inside, Xeon, Xeon Phi, and Xeon Inside are trademarks of Intel Corporation in the U.S. and/or other countries.
+
+© 2016 NVIDIA Corporation. All rights reserved. NVIDIA, GeForce , and NVIDIA Pascal are registered trademarks of NVIDIA Corporation in the U.S and other countries
+
+Brand and product names mentioned are trademarks of their respective owners.
+
+HDMI
+All images and descriptions are for illustrative purposes only. Visual representation of the products may not be perfectly accurate. Product specification, functions and appearance may vary by models and differ from country to country . All specifications are subject to change without notice. Please consult the product specifications page for full details.Although we endeavor to present the most precise and comprehensive information at the time of publication, a small number of items may contain typography or photography errors. Products may not be available in all markets. We recommend you to check with your local supplier for exact offers.

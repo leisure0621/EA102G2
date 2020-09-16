@@ -1,0 +1,83 @@
+﻿MPG GAMING PLUS 配備了延伸散熱片設計， Core boost、Twin Turbo M.2、 Game Boost 、 Turbo USB和Intel CNVi連接器以及MSI最新Dragon Center APP，徹底滿足玩家所需。
+支援 LGA1151 腳位的第8代與第9 代 Intel® Core™, 及 Intel® Pentium® 和 Celeron® 處理器
+支援 DDR4 記憶體, 可高達4400(OC)MHz
+閃電般極速遊戲體驗：2xTURBO M.2 , 支援 Intel Optane Memory以及Turbo USB 3.1 GEN2
+提供足夠的核心供電：延伸散熱片設計、Core Boost、Game Boost、DDR4 Boost
+Intel CNVi Ready: 支援 Intel CNVi Wi-Fi 模組、IEEE802.11 AC wave2、提供高速無線連線品質
+Audio Boost: 提供專業視聽室等級音效，給玩家身臨其境的遊戲體驗
+Dragon Center: 全新軟體集結了MSI所有軟體工具，如GAME MODE、VOICE BOOST、LIVE UPDATE和多項友善介面。
+Add to compare
+ 使於 DIY
+ 優化性能
+ 電競優勢
+ 激動人心
+ 堅持信念
+MPG Z390 GAMING PLUS
+PERFORM IN STYLE
+Intel Turbo USB 3.1 Gen2
+Intel LAN
+Keyboard / Mouse
+HDMI
+鍍金音效接口
+增大散熱片設計
+提供更大限度的散熱性能
+紅色電競散熱片
+更快散熱及電競外觀
+DDR4 Boost 記憶體加速引勤
+獨立記憶體傳輸線路區並優化信號
+雙重 Turbo M.2
+支援NVMe協議，PCI-Express Gen3 x4標準速度可高達32 Gb/s，支援Intel® Optane™ memory
+PCI-E 鋼鐵裝甲
+保護顯卡免遭彎曲及電磁干擾
+帶功放電的電靜音效組件
+採用高品質的音頻組件優化遊戲音效
+支援Intel CNVi技術
+支援Intel CNVi無線技術，IEEE802.11 AC wave2協議
+
+友善的DIY設計 MSI主機板擁有眾多巧思的便利設計，如整合一致的Pin Header專用區，與SATA和USB 位置等，以滿足玩家組裝需求。
+LEARN MORECooling
+良好的散熱對主機系統的穩定性至關重要。 MSI主板具有堅固厚重的散熱片，還有足夠的風扇接頭，讓您充分選擇想要的冷卻系統進行控制。
+
+LEARN MOREHW
+MSI主板為DIY用戶提供了大量方便和智能的設計，經過無數的調教和故障排除工具，將協助您的系統推向新的高度，滿足最苛刻的標準。讓您安裝自己的主板和遊戲裝備更簡單輕鬆
+
+LEARN MORE相容性
+每個MSI主機板都經過嚴格的認證，都具備整合一致的Pin Header專用區，友善的SATA和USB位置，提供零組件和設備最大的相容性，因此DIY玩家可任意選擇他們想要的零組件。更重要的是，我們提供最關鍵的部分 –記憶體廠商認證列表（QVL），並結合MSI DDR4 Boost技術，即使在超頻也能提供最大的兼容性。因此您只需要確認您想要的遊戲裝備即可。
+
+
+性能強化設計 MSI主機板為重度玩家提供了最新的解決方案。CPU和記憶體儲存與USB傳輸速度強化皆已準備就緒。
+LEARN MORECPU
+高品質供電组件及智慧風扇優化CPU散热性能，这是確保系统穩定高速運行關鍵因素。
+
+LEARN MOREDDR
+優化的線路佈局設計，將儲存傳輸區塊隔離獨立出來，確保訊號的穩定性能。即使在遊戲中使用MSI DDR4 BOOST，也不用擔心系統故障。
+
+LEARN MOREStorage
+MSI主機板支援所有最新的儲存介面，並以超快速度進行存取。讓您更快地啟動載 入遊戲，比敵人擁有更大的優勢。
+
+
+令人興奮並鼓舞人心 每個MSI主板都是根據特定主題所量身設計，滿足玩家的多元喜好。此外，MSI以現代風格，大面積散熱片加上簡潔切割設計，讓整體造型更顯大氣。並結合中性色調，如黑、灰和銀，讓MSI主機板上在呈現多彩RGB 效果時，更加契合協調，強烈展現出玩家的個人風格。
+LEARN MORE精心設計
+MPG 系列主機板源自微星遊戲極速系列，讓您快速載入大型遊戲。三款引人注目的Z390主機板在MPG系列中首次亮相– GAMING PRO CARBON, GAMING EDGE, 和GAMING PLUS。
+
+
+遊戲優勢 MSI主板提供最迷人的遊戲優勢，讓遊戲玩家充分掌控遊戲。使用MSI Audio＆LAN 提升您的聽聲辨位和網路連線能力，享受極致的音質和順暢不間斷的遊戲體驗。
+LEARN MORELAN
+MSI GAMING LAN使用最高質量的硬體元件，提供最低的延遲與最佳的線上遊戲連線品質。
+
+LEARN MOREAudio
+使用優質音效組件提供最優質的音質，在遊戲中獲得最逼真的聲音體驗。
+
+
+堅持的信念 MSI 經營主機板市場多年，憑藉豐富悠久的研發經驗，公司不斷創造最佳性能和人性化主板，滿足用戶對高品質、穩定與耐久零組件的追求。
+LEARN MORE零組件
+僅採用最優質的零組件並集結最新的創新技術，提供最佳體驗。在最極端的條件下進行嚴格的測試，確保了超可靠、超耐久和高性能的主機板。
+
+Ultrabook, Celeron, Celeron Inside, Core Inside, Intel, Intel Logo, Intel Atom, Intel Atom Inside, Intel Core, Intel Inside, Intel Inside Logo, Intel vPro, Itanium, Itanium Inside, Pentium, Pentium Inside, vPro Inside, Xeon, Xeon Phi, and Xeon Inside are trademarks of Intel Corporation in the U.S. and/or other countries.
+
+© 2016 NVIDIA Corporation. All rights reserved. NVIDIA, GeForce , and NVIDIA Pascal are registered trademarks of NVIDIA Corporation in the U.S and other countries
+
+Brand and product names mentioned are trademarks of their respective owners.
+
+HDMI
+All images and descriptions are for illustrative purposes only. Visual representation of the products may not be perfectly accurate. Product specification, functions and appearance may vary by models and differ from country to country . All specifications are subject to change without notice. Please consult the product specifications page for full details.Although we endeavor to present the most precise and comprehensive information at the time of publication, a small number of items may contain typography or photography errors. Products may not be available in all markets. We recommend you to check with your local supplier for exact offers.
