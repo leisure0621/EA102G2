@@ -10,7 +10,7 @@ public class MemJDBCDAO implements I_MemDAO {
 	String passwd = "EA102G2";
 
 	private static final String INSERT_STMT = 
-		"INSERT INTO MEM_MAIN( MEM_ID, FIRST_NAME, LAST_NAME,NICKNAME,TEL,MOB,EMAIL,PASSWORD,SHOP_NAME,CREDIT_CARD,CREDIT_CARD_EXPIRES,CREDIT_CARD_CVC,BANK_ACCOUNT,ADDRESS,AUTHORITY ) VALUES ( 'MEM' || LPAD(SEQ_MEM_ID.NEXTVAL, 4, '0'),?,?,?,?,?,?,?,?,?,?,?,?,?,? )";
+		"INSERT INTO MEM_MAIN( MEM_ID, FIRST_NAME, LAST_NAME,NICKNAME,TEL,MOB,EMAIL,PASSWORD,SHOP_NAME,CREDIT_CARD,CREDIT_CARD_EXPIRES,CREDIT_CARD_CVC,BANK_ACCOUNT,ADDRESS,AUTHORITY ) VALUES ( 'MEM' || LPAD(SEQ_MEM_ID.NEXTVAL, 4, '0'),?,?,?,?,?,?, DBMS_RANDOM.STRING('x', 3) || DBMS_RANDOM.STRING('a', 3) || DBMS_RANDOM.STRING('x', 3),?,?,?,?,?,?,? )";
 	private static final String GET_ALL_STMT = 
 		"SELECT MEM_ID,FIRST_NAME,LAST_NAME,NICKNAME,TEL,MOB,EMAIL,PASSWORD,SHOP_NAME,CREDIT_CARD,CREDIT_CARD_EXPIRES,CREDIT_CARD_CVC,BANK_ACCOUNT,EST_TIME,ADDRESS,AUTHORITY FROM MEM_MAIN";
 	private static final String GET_ONE_STMT = 
@@ -36,21 +36,19 @@ public class MemJDBCDAO implements I_MemDAO {
 			con = DriverManager.getConnection(url, userid, passwd);
 			pstmt = con.prepareStatement(INSERT_STMT);
 
-
 			pstmt.setString(1, memVO.getFirst_name());
 			pstmt.setString(2, memVO.getLast_name());
 			pstmt.setString(3, memVO.getNickname());
 			pstmt.setString(4, memVO.getTel());
 			pstmt.setString(5, memVO.getMob());
 			pstmt.setString(6, memVO.getEmail());
-			pstmt.setString(7, memVO.getEmail());
-			pstmt.setString(8, memVO.getShop_name());
-			pstmt.setString(9, memVO.getCredit_card());
-			pstmt.setDate(10, memVO.getCredit_card_expires());
-			pstmt.setInt(11, memVO.getCredit_card_cvc());
-			pstmt.setString(12, memVO.getBank_account());
-			pstmt.setString(13, memVO.getAddress());
-			pstmt.setInt(14, memVO.getAuthority());
+			pstmt.setString(7, memVO.getShop_name());
+			pstmt.setString(8, memVO.getCredit_card());
+			pstmt.setDate(9, memVO.getCredit_card_expires());
+			pstmt.setInt(10, memVO.getCredit_card_cvc());
+			pstmt.setString(11, memVO.getBank_account());
+			pstmt.setString(12, memVO.getAddress());
+			pstmt.setInt(13, memVO.getAuthority());
 
 			pstmt.executeUpdate();
 

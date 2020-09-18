@@ -52,8 +52,7 @@ pageEncoding="UTF-8" %>
                       <ul class="row">
                         <!-- Name -->
                         <li class="col-md-6">
-                          <label>
-                            姓氏
+                          <label> 姓氏
                             <input
                               type="text"
                               name="first-name"
@@ -64,8 +63,7 @@ pageEncoding="UTF-8" %>
                         </li>
                         <!-- LAST NAME -->
                         <li class="col-md-6">
-                          <label>
-                            名稱
+                          <label>名稱
                             <input
                               type="text"
                               name="last-name"
@@ -76,8 +74,7 @@ pageEncoding="UTF-8" %>
                         </li>
 
                         <li class="col-md-12">
-                          <label>
-                            Email
+                          <label>Email
                             <input
                               type="text"
                               name="email"
@@ -89,19 +86,11 @@ pageEncoding="UTF-8" %>
 
                         <!-- LOGIN -->
                         <li class="col-md-4">
-                          <button type="submit" class="btn regester">
-                            註冊
-                          </button>
-                          
+                          <div class="btn regester">註冊</div>
                         </li>
 
                       </ul>
-                      <ul>
-                      <li>　</li>
-                        <li><button class="btn" id="magic">
-                            這是魔法~
-                          </button></li>
-                      </ul>
+
                     </div>
                   </div>
 
@@ -231,9 +220,6 @@ pageEncoding="UTF-8" %>
 
       // 註冊會員
       function regesterAccount() {
-        if (!data.isFB) {
-          alert('帳號註冊中，成功後將會發送密碼至您的郵箱...');
-        }
         $.ajax({
           url: url,
           type: 'post',
@@ -272,11 +258,6 @@ pageEncoding="UTF-8" %>
         socket.data.register.msg = msg;
         sendMessage(socket.data);
       }
-      $('#magic').click(function(){
-    	  $('[name="first-name"]').val("吳");
-    	  $('[name="last-name"]').val("永痣");
-    	  $('[name="email"]').val("ea102g2@gmail.com");
-      });
     </script>
   </body>
 </html>

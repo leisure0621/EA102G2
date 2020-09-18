@@ -277,7 +277,6 @@
               </div>
             </div>
             <div class="modal-footer">
-              <div class="btn btn-magic">神奇小按鈕</div>
               <div class="btn btn-danger" data-dismiss="modal">關閉</div>
               <div class="btn btn-primary update">修改</div>
               <div class="btn btn-primary insert">新增</div>
@@ -559,14 +558,7 @@
             });
           }
         });
-        $('.btn.btn-magic').click(function(){
-      	  $('[name="emp_lastname"]').val('冠宏');
-      	  $('[name="emp_firstname"]').val('吳');
-      	  $('[name="salary"]').val('23000');
-      	  $('[name="hiredate"]').val('2020-09-17');
-        });
       });
-
     </script>
   </body>
 </html>

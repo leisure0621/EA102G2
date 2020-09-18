@@ -175,7 +175,6 @@
                   <li class="col-sm-12">
                     <input type="hidden" name="action" id="newtext" value="insert">
 					<input type="submit" class="btn" id="newtext" value="送出新增">
-					<input class="btn btn-info" id="666" type="button" value="神奇小按鈕">
                   </li>
                 </ul>
               </form>
@@ -230,10 +229,6 @@
 				  timer: 1500
 				});
 		});
-		 $('#666').click(function(){
-	         	$('[name="title"]').val('預算80K組電腦，求解 ');
-	         	$('[name="content"]').val('各位大大安安，小弟想組一台電腦，我不會組電腦，我就爛');
-	         });
 		</script>
 </body>
 </html>

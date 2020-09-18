@@ -155,12 +155,6 @@
                   <td><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal"
                       style="margin-top: 20px; margin-bottom: 20px;">送出新增</button></td>
                 </tr>
-
-                <tr>
-                  <td>
-                    <button type="button" id="mBtn" style="margin-top: 20px; margin-bottom: 20px;">神奇小按鈕</button>
-                  </td>
-                </tr>
               </table>
 
               <!-- Modal -->
@@ -198,16 +192,4 @@
 
 
 </body>
-
-<scipt src='http://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js'></scipt>
-
-<script>
-  $("#mBtn").click(function () {
-    $("#rmPro_name").val("CPU");
-    $("#rmDes").val("電腦開不了機，一點反應也沒有，就想送來檢查一下");
-    $("#rmAdd").val("桃園市桃園區八張二路二段433巷250弄780號");
-    $("#rmRecipient").val("纓京塚丈");
-  });
-</script>
-
 </html>

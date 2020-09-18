@@ -193,8 +193,6 @@ table {
 							<input type="hidden" name="text_id" value="${text_id}">
 							<input type="hidden" name="informant" value="${memVO.mem_id}">
 							<input type="submit" class="btn" value="送出新增">
-							<input class="btn btn-info" id="666" type="button" value="神奇小按鈕1">
-							<input class="btn btn-info" id="777" type="button" value="神奇小按鈕2">
 						</FORM>
 						<!-- ADMIN info -->
 
@@ -231,15 +229,6 @@ table {
 <!--======= FOOTER =========-->
 <%@ include file="/front_end/footerMenu.jsp"%>
 <%@ include file="/front_end/footerSection.jsp"%>
-<script>
-$('#666').click(function(){
- 	$('[name="case_description"]').val('公然販售垃圾');
- });
- 
-$('#777').click(function(){
- 	$('[name="case_description"]').val('公然聚賭');
- });
-</script>
 
 </body>
 </html>

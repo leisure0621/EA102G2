@@ -76,7 +76,7 @@ public class TimerTas implements ServletContextListener{
 						System.out.println("==============");
 						
 						// 成立訂單
-						soMainSvc.insert(3, lastbdVO.getMem_id(), "BST0001", 1, lastbdVO.getBid_price(), "無", "無", 1);
+						soMainSvc.insert(3, lastbdVO.getMem_id(), "BST0011", 1, lastbdVO.getBid_price(), "無", "無", 1);
 						String so_id = soMainSvc.getLatestSoId();
 						System.out.println("so_id="+so_id);
 						soDetailSvc.addDetail(lastbdVO.getBid_price(),bmVO.getPro_id(), 1, so_id);

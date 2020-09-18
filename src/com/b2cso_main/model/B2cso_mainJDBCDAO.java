@@ -8,9 +8,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.b2cso_status.model.B2cso_statusJDBCDAO;
-import com.b2cso_status.model.B2cso_statusVO;
-
 public class B2cso_mainJDBCDAO implements I_B2cso_mainDAO{
     String driver = "oracle.jdbc.driver.OracleDriver";
     String url = "jdbc:oracle:thin:@localhost:1521:XE";

@@ -3,15 +3,12 @@ package com.b2cso_main.controller;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
-import java.util.Enumeration;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
-import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -26,14 +23,6 @@ import com.b2cso_detail.model.B2cso_detailService;
 import com.b2cso_detail.model.B2cso_detailVO;
 import com.b2cso_main.model.B2cso_mainService;
 import com.b2cso_main.model.B2cso_mainVO;
-import com.dept.model.DeptService;
-import com.dept.model.DeptVO;
-import com.emp.model.EmpService;
-import com.emp.model.EmpVO;
-import com.emp_auth.model.EmpAuthService;
-import com.emp_auth.model.EmpAuthVO;
-import com.mem.model.MemService;
-import com.mem.model.MemVO;
 
 public class B2csoServlet extends HttpServlet {
 	public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {

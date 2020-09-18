@@ -108,14 +108,7 @@ pageEncoding="UTF-8" %>
                         </li>
 
                       </ul>
-                      <ul>
-                        <li>　</li>
-                        <li><button id="magic" class="btn">Magic~~~~</button></li>
-                        <li>　</li>
-                        <li><button id="222" class="btn">召喚222~</button></li>
-                        <li>　</li>
-                        <li><button id="333" class="btn">有請333~</button></li>
-                      </ul>
+                 
                     </div>
                   </div>
 					
@@ -273,17 +266,6 @@ pageEncoding="UTF-8" %>
         });
         // 參考: https://www.zhangxinxu.com/wordpress/2017/02/js-page-url-document-referrer/
       }
-      $('#magic').click(function (){
-    	  $('[name="email"]').val("ea102g2@gmail.com");
-      });
-      $('#222').click(function (){
-    	  $('[name="email"]').val("222@222.222");
-    	  $('[name="password"]').val("222@222.222");
-      });
-      $('#333').click(function (){
-    	  $('[name="email"]').val("333@333.333");
-    	  $('[name="password"]').val("333@333.333");
-      });
     </script>
   </body>
 </html>
